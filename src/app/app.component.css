@@ -1,0 +1,114 @@
+/* .img-fluid {
+    position: relative;
+    width: 1365px;
+    height: 660px;
+    background-image: linear-gradient(to top, #d0d0d0, #d3d3d3);
+} */
+
+.A-word-from-our-Creators {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 5.14;
+    letter-spacing: 0.7px;
+    text-align: center;
+    color: #878787;
+    margin-left: 700px;
+}
+
+.ABOUT-FITNESS {
+    width: 348px;
+    height: 32px;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 2.2px;
+    text-align: center;
+    color: #11b4e5;
+}
+
+.Lorem-Ipsum-is-simply-dummy-text-of-the-printing-and-typesetti {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    text-align: center;
+    color: #ffffff;
+}
+
+.GALLERY {
+    width: 196px;
+    height: 32px;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 2.2px;
+    text-align: center;
+    color: #11b4e5;
+    margin-top: 20px;
+}
+
+.Benefits {
+    width: 207px;
+    height: 32px;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 2.2px;
+    text-align: center;
+    color: #11b4e5;
+}
+
+.We-make-it-easy-and-affordable-for-you-to-stay-fit-and-healthy {
+    width: 416px;
+    height: 14px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: 0.7px;
+    text-align: center;
+    color: #303030;
+}
+
+.Have-a-query {
+    width: 343px;
+    height: 35px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 2.2px;
+    text-align: center;
+    color: #11b4e5;
+}
+
+agm-map {
+    height: 300px;
+}
+
+ @media only screen and (max-width: 600px) {
+    .formInput {
+        display: inline;
+    }
+    .textArea {
+        width: 100%;
+    }
+ }
+
